@@ -32,6 +32,6 @@ spec:
         description: This is a random API to test with
   source:
     git:
-      url: https://github.com/sample-accelerators/customer-profile.git
+      url: https://github.com/jrshaffe/bug-bash.git
       ref:
         branch: main
